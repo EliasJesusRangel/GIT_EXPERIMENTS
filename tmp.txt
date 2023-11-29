@@ -1,4 +1,7 @@
 
+one line
+two line
+three line
 four line
 get all the lines
 for some coke
